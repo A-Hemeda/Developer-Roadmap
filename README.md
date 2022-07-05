@@ -1,16 +1,5 @@
-# chessclock
+# Chess Timer
 
-A new Flutter project.
+A Chess Timer for chess players.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![pngegg](https://user-images.githubusercontent.com/101954795/177329018-7a3cf48d-e51c-423c-b521-86a7865b9521.png)
