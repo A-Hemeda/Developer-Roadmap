@@ -4,7 +4,7 @@
 
   <br>
   
-  Tic Tac Toe
+  Chess Timer
   
 </h1>
 
