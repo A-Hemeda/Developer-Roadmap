@@ -1,4 +1,4 @@
-# nour
+# Muslim App
 
 A new Flutter project.
 
