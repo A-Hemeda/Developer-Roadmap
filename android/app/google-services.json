@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "281004688662",
+    "project_id": "designapp-c1acc",
+    "storage_bucket": "designapp-c1acc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281004688662:android:839dac7fa2d7b79d98fc37",
+        "android_client_info": {
+          "package_name": "com.design.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281004688662-r4bhrul9dqijs0okqvmugr1se7ucstdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.design.app",
+            "certificate_hash": "e76b695f9a5857b5ced093d7d00b9a74ec70734e"
+          }
+        },
+        {
+          "client_id": "281004688662-u5j1vpugtspjormdu63crr50gtpftll0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXaZuMGLfb3rAX5cQNfT2OmN7NPNMXBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281004688662-u5j1vpugtspjormdu63crr50gtpftll0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
