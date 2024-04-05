@@ -1,8 +1,11 @@
 # Developer Roadmap
 
-- [Frontend Roadmap](https://roadmap.sh/frontend) / [Frontend Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
-- [Backend Roadmap](https://roadmap.sh/backend) / [Backend Beginner Roadmap](https://roadmap.sh/backend?r=backend-beginner)
-- [DevOps Roadmap](https://roadmap.sh/devops) / [DevOps Beginner Roadmap](https://roadmap.sh/devops?r=devops-beginner)
+- [Frontend Roadmap](https://roadmap.sh/frontend)
+- [Frontend Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
+- [Backend Roadmap](https://roadmap.sh/backend)
+- [Backend Beginner Roadmap](https://roadmap.sh/backend?r=backend-beginner)
+- [DevOps Roadmap](https://roadmap.sh/devops)
+- [DevOps Beginner Roadmap](https://roadmap.sh/devops?r=devops-beginner)
 - [Full Stack Roadmap](https://roadmap.sh/full-stack)
 - [Computer Science Roadmap](https://roadmap.sh/computer-science)
 - [Data Structures and Algorithms Roadmap](https://roadmap.sh/datastructures-and-algorithms)
@@ -12,7 +15,8 @@
 - [QA Roadmap](https://roadmap.sh/qa)
 - [Python Roadmap](https://roadmap.sh/python)
 - [Software Architect Roadmap](https://roadmap.sh/software-architect)
-- [Game Developer Roadmap](https://roadmap.sh/game-developer) / [Server Side Game Developer](https://roadmap.sh/server-side-game-developer)
+- [Game Developer Roadmap](https://roadmap.sh/game-developer)
+- [Server Side Game Developer](https://roadmap.sh/server-side-game-developer)
 - [Software Design and Architecture Roadmap](https://roadmap.sh/software-design-architecture)
 - [JavaScript Roadmap](https://roadmap.sh/javascript)
 - [TypeScript Roadmap](https://roadmap.sh/typescript)
@@ -42,11 +46,3 @@
 - [Docker Roadmap](https://roadmap.sh/docker)
 - [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
 - [Technical Writer Roadmap](https://roadmap.sh/technical-writer)
-
-There are also interactive best practices:
-
-- [Backend Performance Best Practices](https://roadmap.sh/best-practices/backend-performance)
-- [Frontend Performance Best Practices](https://roadmap.sh/best-practices/frontend-performance)
-- [Code Review Best Practices](https://roadmap.sh/best-practices/code-review)
-- [API Security Best Practices](https://roadmap.sh/best-practices/api-security)
-- [AWS Best Practices](https://roadmap.sh/best-practices/aws)
