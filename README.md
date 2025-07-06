@@ -11,12 +11,15 @@
 - [DevOps Roadmap](https://roadmap.sh/devops)
   
 - [DevOps Beginner Roadmap](https://roadmap.sh/devops?r=devops-beginner)
+  
 - [Full Stack Roadmap](https://roadmap.sh/full-stack)
   
 - [Computer Science Roadmap](https://roadmap.sh/computer-science)
   
 - [Data Structures and Algorithms Roadmap](https://roadmap.sh/datastructures-and-algorithms)
+  
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
+  
 - [Data Analyst Roadmap](https://roadmap.sh/data-analyst)
   
 - [MLOps Roadmap](https://roadmap.sh/mlops)
@@ -26,8 +29,11 @@
 - [Python Roadmap](https://roadmap.sh/python)
   
 - [Software Architect Roadmap](https://roadmap.sh/software-architect)
+  
 - [Game Developer Roadmap](https://roadmap.sh/game-developer)
+  
 - [Server Side Game Developer](https://roadmap.sh/server-side-game-developer)
+  
 - [Software Design and Architecture Roadmap](https://roadmap.sh/software-design-architecture)
 - [JavaScript Roadmap](https://roadmap.sh/javascript)
 - [TypeScript Roadmap](https://roadmap.sh/typescript)
