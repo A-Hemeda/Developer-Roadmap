@@ -1,13 +1,13 @@
 # Developer Roadmap
 
 - [Frontend Roadmap](https://roadmap.sh/frontend)
-- 
+  
 - [Frontend Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
-- 
+  
 - [Backend Roadmap](https://roadmap.sh/backend)
-- 
+  
 - [Backend Beginner Roadmap](https://roadmap.sh/backend?r=backend-beginner)
-- 
+  
 - [DevOps Roadmap](https://roadmap.sh/devops)
 - [DevOps Beginner Roadmap](https://roadmap.sh/devops?r=devops-beginner)
 - [Full Stack Roadmap](https://roadmap.sh/full-stack)
