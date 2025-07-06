@@ -35,16 +35,27 @@
 - [Server Side Game Developer](https://roadmap.sh/server-side-game-developer)
   
 - [Software Design and Architecture Roadmap](https://roadmap.sh/software-design-architecture)
+  
 - [JavaScript Roadmap](https://roadmap.sh/javascript)
+  
 - [TypeScript Roadmap](https://roadmap.sh/typescript)
+  
 - [C++ Roadmap](https://roadmap.sh/cpp)
+  
 - [React Roadmap](https://roadmap.sh/react)
+  
 - [React Native Roadmap](https://roadmap.sh/react-native)
+  
 - [Vue Roadmap](https://roadmap.sh/vue)
+  
 - [Angular Roadmap](https://roadmap.sh/angular)
+  
 - [Node.js Roadmap](https://roadmap.sh/nodejs)
+  
 - [GraphQL Roadmap](https://roadmap.sh/graphql)
+  
 - [Android Roadmap](https://roadmap.sh/android)
+  
 - [Flutter Roadmap](https://roadmap.sh/flutter)
 - [Go Roadmap](https://roadmap.sh/golang)
 - [Rust Roadmap](https://roadmap.sh/rust)
