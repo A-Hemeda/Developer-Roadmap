@@ -1,9 +1,7 @@
 # Developer Roadmap
 
 - [Frontend Roadmap](https://roadmap.sh/frontend)
-  
-- [Frontend Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
-  
+    
 - [Backend Roadmap](https://roadmap.sh/backend)
   
 - [Backend Beginner Roadmap](https://roadmap.sh/backend?r=backend-beginner)
