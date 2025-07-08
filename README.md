@@ -4,8 +4,6 @@
     
 - [Backend Roadmap](https://roadmap.sh/backend)
   
-- [Backend Beginner Roadmap](https://roadmap.sh/backend?r=backend-beginner)
-  
 - [DevOps Roadmap](https://roadmap.sh/devops)
   
 - [DevOps Beginner Roadmap](https://roadmap.sh/devops?r=devops-beginner)
