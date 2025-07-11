@@ -3,10 +3,10 @@
 - [Frontend Roadmap](https://roadmap.sh/frontend)
     
 - [Backend Roadmap](https://roadmap.sh/backend)
+
+- [DevOps Beginner Roadmap](https://roadmap.sh/devops?r=devops-beginner)
   
 - [DevOps Roadmap](https://roadmap.sh/devops)
-  
-- [DevOps Beginner Roadmap](https://roadmap.sh/devops?r=devops-beginner)
   
 - [Full Stack Roadmap](https://roadmap.sh/full-stack)
   
