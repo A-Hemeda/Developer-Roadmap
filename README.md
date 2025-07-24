@@ -9,9 +9,7 @@
 - [DevOps Roadmap](https://roadmap.sh/devops)
   
 - [Full Stack Roadmap](https://roadmap.sh/full-stack)
-  
-- [Computer Science Roadmap](https://roadmap.sh/computer-science)
-  
+    
 - [Data Structures and Algorithms Roadmap](https://roadmap.sh/datastructures-and-algorithms)
   
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
@@ -25,6 +23,8 @@
 - [Python Roadmap](https://roadmap.sh/python)
   
 - [Software Architect Roadmap](https://roadmap.sh/software-architect)
+
+- [Computer Science Roadmap](https://roadmap.sh/computer-science)
   
 - [Game Developer Roadmap](https://roadmap.sh/game-developer)
   
