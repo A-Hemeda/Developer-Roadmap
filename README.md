@@ -1,5 +1,4 @@
 # Developer Roadmap
-## Tracks:
 
 - [Frontend Roadmap](https://roadmap.sh/frontend)
     
